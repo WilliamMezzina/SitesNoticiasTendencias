@@ -1,0 +1,1 @@
+common_word = {'e','é','do','da','um','uma'}
